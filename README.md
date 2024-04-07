@@ -20,27 +20,27 @@ Handle missing values, outliers, and encode categorical variables.<br>
 
 Ensure the dataset is ready for model training.<br>
 
-Feature Engineering:<br>
+**Feature Engineering:<br>**
 
 Extract meaningful features to enhance model performance.<br>
 
 Consider creating new features that capture the essence of laptop pricing.<br>
 
-Model Development:<br>
+**Model Development:<br>**
 
 Employ machine learning algorithms such as Linear Regression, Random Forest, and Gradient Boosting to predict laptop prices.<br>
 
 Evaluate and choose the model that aligns best with the project's objectives.<br>
 
-Hyperparameter Tuning:<br>
+**Hyperparameter Tuning:<br>**
 
 Fine-tune the selected model to achieve optimal performance.<br>
 
-Real-time Predictions:<br>
+**Real-time Predictions:<br>**
 
 Implement a mechanism for the model to make predictions for new laptops entering the market.<br>
 
-Interpretability and Insights:<br>
+**Interpretability and Insights:<br>**
 
 Uncover insights into which features play a pivotal role in pricing decisions.<br>
 
